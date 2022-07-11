@@ -1,4 +1,4 @@
-package com.luisadorno;
+package com.luisadorno.domain.greeting.model;
 
 public class Greeting {
 

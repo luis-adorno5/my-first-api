@@ -1,5 +1,7 @@
-package com.luisadorno;
+package com.luisadorno.domain.greeting.controller;
 import java.util.concurrent.atomic.AtomicLong;
+
+import com.luisadorno.domain.greeting.model.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
